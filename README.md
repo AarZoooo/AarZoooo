@@ -4,8 +4,6 @@ Backend engineer. Final-year CSE student at Chandigarh University, graduating Ju
 
 Currently interning at **Rippling** on the HRIS Onboarding team, building on systems that power HR for hundreds of thousands of employees across 70+ countries. Previously interned at **PayPal India**.
 
----
-
 ## What I've built
 
 **Conditionality Engine @ Rippling** *(Quality Week 2026 - Foundational Fixes Winner)*  
@@ -20,8 +18,6 @@ LangGraph multi-agent system + Milvus vector database for semantic search and in
 **Backend APIs @ PayPal**  
 Shipped Java Spring Boot REST APIs through full SDLC to QA and production. Built MCP integrations that reduced developer friction by 8,000 hours/month.
 
----
-
 ## Stack
 
 **Languages:** Java · Python
@@ -29,8 +25,6 @@ Shipped Java Spring Boot REST APIs through full SDLC to QA and production. Built
 **Databases:** MySQL · MongoDB · Milvus  
 **Tools:** Git · Jira · Harness · Buildkite · Postman · Linux  
 **Concepts:** Backend Systems · REST APIs · Microservices · Agentic AI · RAG · Vector Databases · CI/CD
-
----
 
 ## Find me
 
