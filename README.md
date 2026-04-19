@@ -1,8 +1,7 @@
 # Hey, I'm Aarju 👋
+Backend engineer, CS '26 grad.
 
-Backend engineer. Final-year CSE student at Chandigarh University, graduating June 2026.
-
-Currently interning at **Rippling** on the HRIS Onboarding team, building on systems that power HR for hundreds of thousands of employees across 70+ countries. Previously interned at **PayPal India**.
+Currently interning at **Rippling** on the HRIS Onboarding team, building systems that power HR for hundreds of thousands of employees across 70+ countries. Previously interned at **PayPal India**.
 
 ## What I've built
 
@@ -20,13 +19,12 @@ Shipped Java Spring Boot REST APIs through full SDLC to QA and production. Built
 
 ## Stack
 
-**Languages:** Java · Python
+**Languages:** Java · Python  
 **Frameworks:** Spring Boot · Django · LangGraph · MCP  
-**Databases:** MySQL · MongoDB · Milvus  
-**Tools:** Git · Jira · Harness · Buildkite · Postman · Linux  
+**Databases:** Milvus  
+**Tools:** Git · Buildkite · Postman · Linux · Jira · Confluence  
 **Concepts:** Backend Systems · REST APIs · Microservices · Agentic AI · RAG · Vector Databases · CI/CD
 
 ## Find me
-
 - 🔗 [linkedin.com/in/aarjupal](https://linkedin.com/in/aarjupal)
 - 📧 aarju.pal1234@gmail.com
