@@ -27,4 +27,4 @@ Shipped Java Spring Boot REST APIs through full SDLC to QA and production. Built
 
 ## Find me
 - 🔗 [linkedin.com/in/aarjupal](https://linkedin.com/in/aarjupal)
-- 📧 aarju.pal1234@gmail.com
+- 📧 me@aarju.dev 
